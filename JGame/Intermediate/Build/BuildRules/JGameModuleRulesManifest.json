@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal proj\\ProJect_A\\JGame\\Source\\JGame\\JGame.Build.cs",
+		"D:\\Unreal proj\\ProJect_A\\JGame\\Source\\JGame.Target.cs",
+		"D:\\Unreal proj\\ProJect_A\\JGame\\Source\\JGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

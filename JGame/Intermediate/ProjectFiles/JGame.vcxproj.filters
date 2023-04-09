@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\JGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{DB6908D0-EFEC-48A3-909F-9C0FA9A4B4B4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\JGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\JGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B8EC7144-B259-40BD-9189-7D3C271E4932}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\JGame">
+      <UniqueIdentifier>{8C4E3793-4DB5-4DFF-B9CD-BF4C1045B98A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\JGame\JGame.Build.cs">
+      <Filter>Source\JGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\JGame\JGame.cpp">
+      <Filter>Source\JGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JGame\JGame.h">
+      <Filter>Source\JGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JGame\JGameGameModeBase.cpp">
+      <Filter>Source\JGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JGame\JGameGameModeBase.h">
+      <Filter>Source\JGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

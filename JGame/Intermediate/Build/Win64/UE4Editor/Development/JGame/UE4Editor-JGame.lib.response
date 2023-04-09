@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-JGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal proj\ProJect_A\JGame\Intermediate\Build\Win64\JGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal proj\ProJect_A\JGame\Intermediate\Build\Win64\UE4Editor\Development\JGame\JGame.cpp.obj"
+"D:\Unreal proj\ProJect_A\JGame\Intermediate\Build\Win64\UE4Editor\Development\JGame\JGameGameModeBase.cpp.obj"
+"D:\Unreal proj\ProJect_A\JGame\Intermediate\Build\Win64\UE4Editor\Development\JGame\JGame.init.gen.cpp.obj"
+"D:\Unreal proj\ProJect_A\JGame\Intermediate\Build\Win64\UE4Editor\Development\JGame\JGameGameModeBase.gen.cpp.obj"
+"D:\Unreal proj\ProJect_A\JGame\Intermediate\Build\Win64\UE4Editor\Development\JGame\Default.rc2.res"
+/OUT:"D:\Unreal proj\ProJect_A\JGame\Intermediate\Build\Win64\UE4Editor\Development\JGame\UE4Editor-JGame.lib"

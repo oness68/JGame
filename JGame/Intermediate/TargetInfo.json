@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "JGame",
+			"Path": "D:\\Unreal proj\\ProJect_A\\JGame\\Source\\JGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "JGameEditor",
+			"Path": "D:\\Unreal proj\\ProJect_A\\JGame\\Source\\JGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
