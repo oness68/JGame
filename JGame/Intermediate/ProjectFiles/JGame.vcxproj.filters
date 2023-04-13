@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\JGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{DB6908D0-EFEC-48A3-909F-9C0FA9A4B4B4}</UniqueIdentifier>
+      <UniqueIdentifier>{0504102D-B670-409A-A6DD-60613CA5A7AE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\JGame.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,10 @@
     <None Include="..\..\Source\JGameEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\SCK_Casual01.png" />
+    <None Include="..\..\UndeadPack.png" />
     <Filter Include="Config">
-      <UniqueIdentifier>{B8EC7144-B259-40BD-9189-7D3C271E4932}</UniqueIdentifier>
+      <UniqueIdentifier>{7FDEBB21-D0BE-437B-8451-5E4829EB7414}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +26,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\JGame">
-      <UniqueIdentifier>{8C4E3793-4DB5-4DFF-B9CD-BF4C1045B98A}</UniqueIdentifier>
+      <UniqueIdentifier>{9C3BDEB1-7F5A-421F-AB0A-14FC121F3042}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\JGame\JGame.Build.cs">
       <Filter>Source\JGame</Filter>
@@ -39,6 +41,12 @@
       <Filter>Source\JGame</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\JGame\JGameGameModeBase.h">
+      <Filter>Source\JGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JGame\M_Character.cpp">
+      <Filter>Source\JGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JGame\M_Character.h">
       <Filter>Source\JGame</Filter>
     </ClInclude>
   </ItemGroup>

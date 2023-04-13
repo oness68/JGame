@@ -1,0 +1,17 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal proj\ProJect_A).
+  Invalidating makefile for JGameEditor (source file removed)
+  Parsing headers for JGameEditor
+    Running UnrealHeaderTool "D:\Unreal proj\ProJect_A\JGame\JGame.uproject" "D:\Unreal proj\ProJect_A\JGame\Intermediate\Build\Win64\JGameEditor\Development\JGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\oness\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for JGameEditor in 3.9570035 seconds
+  Building JGameEditor...
+  Using Visual Studio 2019 14.29.30137 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 6 processes...
+    [1/4] JGame.init.gen.cpp
+    [2/4] UE4Editor-JGame.lib
+       D:\Unreal proj\ProJect_A\JGame\Intermediate\Build\Win64\UE4Editor\Development\JGame\UE4Editor-JGame.lib 라이브러리 및 D:\Unreal proj\ProJect_A\JGame\Intermediate\Build\Win64\UE4Editor\Development\JGame\UE4Editor-JGame.exp 개체를 생성하고 있습니다.
+    [3/4] UE4Editor-JGame.dll
+       D:\Unreal proj\ProJect_A\JGame\Intermediate\Build\Win64\UE4Editor\Development\JGame\UE4Editor-JGame.suppressed.lib 라이브러리 및 D:\Unreal proj\ProJect_A\JGame\Intermediate\Build\Win64\UE4Editor\Development\JGame\UE4Editor-JGame.suppressed.exp 개체를 생성하고 있습니다.
+    [4/4] JGameEditor.target
+  Total time in Parallel executor: 1.75 seconds
+  Total execution time: 7.56 seconds
